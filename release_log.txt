@@ -1,0 +1,12 @@
+Document last updated on 04/05/2023 at 12:00 CET
+
+**Release log on revo Hemera Emulator**
+
+
+First Iteration(04/05/2023)
+>[NEW] User can enter the width, height and depth of the print and calculates the overall time of the print.
+>[NEW] Synchronized with threads in calculating the live polls that can be used for integrating with other systems.
+
+
+
+
